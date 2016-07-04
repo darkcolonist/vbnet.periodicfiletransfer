@@ -5,4 +5,6 @@ i personally created this app because i thought it's too cumbersome to manually 
 
 ![alt tag](https://dl.dropboxusercontent.com/u/617821/misty/periodicfiletransfer.jpg)
 
+filters: *.jpg - for jpg files only | * - for everything
+
 used: Microsoft Visual Basic 2008 Express Edition
